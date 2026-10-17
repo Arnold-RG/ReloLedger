@@ -18,7 +18,7 @@
 <p align="center">
   <img src="https://img.shields.io/github/actions/workflow/status/Arnold-RG/AbroadCost/deploy-pages.yml?label=Pages%20deploy&style=flat-square" alt="CI"/>
   <img src="https://img.shields.io/badge/Coverage-195%20countries-0B3D2E?style=flat-square" alt="Countries"/>
-  <img src="https://img.shields.io/badge/Maintainer-Arnova%20Group-1F6F4A?style=flat-square" alt="Arnova Group"/>
+  <img src="https://img.shields.io/badge/Maintainer-Arnold%20Rurangwa-1F6F4A?style=flat-square" alt="Arnold Rurangwa"/>
 </p>
 
 ---
@@ -120,10 +120,9 @@ Then open http://localhost:5500 in your system browser.
 
 ## Maintainer
 
-**Arnova Group** — public contributor and copyright holder for AbroadCost.
+**Arnold Rurangwa** — public contributor and copyright holder for AbroadCost.
 
-- GitHub organization / account: [Arnold-RG](https://github.com/Arnold-RG)
-- Company: Arnova Group
+- GitHub account: [Arnold-RG](https://github.com/Arnold-RG)
 
 Issues and pull requests are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md).
 
@@ -131,4 +130,4 @@ Issues and pull requests are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## License
 
-Source-available under [LICENSE](LICENSE). The live website is free for public use. Commercial rebranding or redistribution requires written permission from Arnova Group.
+Source-available under [LICENSE](LICENSE). The live website is free for public use. Commercial rebranding or redistribution requires written permission from Arnold Rurangwa.
