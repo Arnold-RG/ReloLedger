@@ -1,6 +1,6 @@
 # AbroadCost documentation
 
-Maintained by **Arnova Group**.
+Maintained by **Arnold Rurangwa**.
 
 | Document | Contents |
 |----------|----------|
